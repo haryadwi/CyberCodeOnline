@@ -1,7 +1,7 @@
 {
  	"tabs": {
  	 	"inventory": {
- 	 	 	"trans": "Inventaris",
+ 	 	 	"trans": "Penyimpanan",
  	 	 	"eng": "Inventory"
  	 	},
  	 	"quest": {
@@ -24,7 +24,7 @@
  	"npc": {
  	 	"unitExchange": {
  	 	 	"name": {
- 	 	 	 	"trans": "Kantor Bursa Arasaka",
+ 	 	 	 	"trans": "Unit Bursa Arasaka",
  	 	 	 	"eng": "Arasaka Unit Exchange"
  	 	 	},
  	 	 	"tut": {
